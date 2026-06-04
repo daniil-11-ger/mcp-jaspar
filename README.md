@@ -92,3 +92,13 @@ MIT
 
 Author
 Daniil Gerassimov
+
+## Demo
+
+Claude Code successfully searching for TEAD1 motifs in JASPAR database:
+
+![TEAD1 search result](screenshots/Снимок%20экрана%202026-06-05%20015655.png)
+
+MCP inspector confirming the server has one registered tool:
+
+![MCP inspect Tools: 1](screenshots/Снимок%20экрана%202026-06-05%20015842.png)
