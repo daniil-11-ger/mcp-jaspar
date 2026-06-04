@@ -93,7 +93,9 @@ MIT
 Author
 Daniil Gerassimov
 
-![TEAD1 result](https://github.com/daniil-11-ger/mcp-jaspar/blob/main/screenshots/Снимок%20экрана%202026-06-05%20015655.png?raw=true)
+## Demo
 
-![MCP inspect](https://github.com/daniil-11-ger/mcp-jaspar/blob/main/screenshots/Снимок%20экрана%202026-06-05%20015842.png?raw=true)
+![TEAD1 search result](https://github.com/daniil-11-ger/mcp-jaspar/blob/main/screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-06-05%20015655.png?raw=true)
+
+![MCP inspect](https://github.com/daniil-11-ger/mcp-jaspar/blob/main/screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-06-05%20015842.png?raw=true)
 
