@@ -10,6 +10,9 @@ An MCP server that provides access to transcription factor motif data from the J
 - Returns complete matrix data including sequence logos and API links
 - Compatible with Claude Code and other MCP clients
 
+![Source 1](screenshots/sour1.png)
+![Source 2](screenshots/soue2.png)
+
 ## Requirements
 
 - Python 3.12 or higher
