@@ -98,4 +98,3 @@ Daniil Gerassimov
 ![Source 1](screenshots/sour1.png)
 
 ![Source 2](screenshots/soue2.png)
-
