@@ -93,12 +93,9 @@ MIT
 Author
 Daniil Gerassimov
 
-## Demo
 
-## Demo
 
-![TEAD1 search result](screenshots/Снимок%20экрана%202026-06-05%20015655.png)
+![Source 1](screenshots/sour1.png)
 
-![MCP inspect](screenshots/Снимок%20экрана%202026-06-05%20015842.png)
-
+![Source 2](screenshots/soue2.png)
 
