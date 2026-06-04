@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "jaspar": {
+      "command": "C:/Users/dilof/mcp-jaspar2/venv312/Scripts/python.exe",
+      "args": ["C:/Users/dilof/mcp-jaspar2/server.py"]
+    }
+  }
+}
